@@ -1,5 +1,4 @@
 # Hey 👋, What's up 
-
 🔭 I’m currently working on gettting AWS Certified Cloud Practitioner Certification.
 
 :blush: I'll update certification status and how I study everyday, stay tune.!
