@@ -1,4 +1,4 @@
-### Hey 👋, What's up 
+# Hey 👋, What's up 
 
 🔭 I’m currently working on gettting AWS Certified Cloud Practitioner Certification.
 
