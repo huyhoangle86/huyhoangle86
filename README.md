@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, What's up <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> </h1>
+<h1 align="center">Hey 👋, What's up? <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> </h1>
 🔭 I’m currently working on gettting AWS Certified Cloud Practitioner Certification.
 
 :blush: I'll update certification status and how I study everyday, stay tune.!
