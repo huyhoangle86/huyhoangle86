@@ -9,6 +9,9 @@
 
 :zzz: Well, I'm thinking about getting one more AWS certificate this year
 
+---
+</div>
+<div align="center">
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
@@ -21,4 +24,5 @@
 <a href="https://www.instagram.com/huyhoang.lee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/stevejobsson/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </a>
+</div>
 
